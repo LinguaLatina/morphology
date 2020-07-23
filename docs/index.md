@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Lingua Latina: morphological data"
+nav_order: 0
 ---
 
 # Lingua Latina: morphological data
