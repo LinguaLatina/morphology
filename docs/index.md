@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Morphology
+title: "Lingua Latina: morphological data"
 ---
 
 # Lingua Latina: morphological data
