@@ -52,8 +52,18 @@ def compile (orthography: String = "lat23") = {
 
   try {
     FstCompiler.compile(datasetDir, datasetList, parserDir, fst, conf)
-    println("\nCompilation completed.\nParser is available in " +  parserDir + "/" + orthography + "-plus" + "/latin.a")
+    println("\nCompilation completed.\nParser is available in " +  parserDir + "/" + datasetList.mkString("-") + "/latin.a")
   } catch {
     case t: Throwable => println("Error trying to compile:\n" + t.toString)
   }
 }
+
+def usage: Unit = {
+  println("\n\nBuild a parser:\n")
+  println("\tcompile(\"ORTHOGRAPHY\")\n")
+  println("where ORTHOGRAPHY is the name of one of the subdirectories in \"datasets\"\n")
+  println("(ie, one of \"lat23\", \"lat24\", \"lat25\")\n")
+  println("The binary parser will be saved in the \"parsers\" directory.")
+}
+
+usage
