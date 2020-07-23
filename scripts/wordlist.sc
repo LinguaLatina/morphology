@@ -16,6 +16,7 @@ val orthos: Map[String, MidOrthography] = Map(
 
 )
 
+// Create a TokenizableCorpus for pliny or hyginus
 def tokenizable(corpusLabel: String) : TokenizableCorpus = {
   val url = urls(corpusLabel)
   val ortho = orthos(corpusLabel)
@@ -23,7 +24,38 @@ def tokenizable(corpusLabel: String) : TokenizableCorpus = {
   TokenizableCorpus(corpus, ortho)
 }
 
+// Compute alphabetized list of distinct lexical tokens.
+// To make it case-sensitive, include caseSensitive = true
+def words(corpusLabel: String, caseSensitive: Boolean = false): Vector[String] = {
+  val tcorpus = tokenizable(corpusLabel)
+  caseSensitive match {
+    case true => tcorpus.lexicalTokens.map(_.text.toLowerCase).distinct.sorted
+    case false => tcorpus.lexicalTokens.map(_.text).distinct.sorted
+  }
+}
+
+
+
+// Write alphabetized list of distinct lexical tokens to
+// file name "CORPUSLABEL-words.txt".
+// To make it case-sensitive, include caseSensitive = true
+def writeWords(corpusLabel: String, caseSensitive: Boolean = false): Unit = {
+  val wordList = words(corpusLabel, caseSensitive).mkString("\n")
+  new PrintWriter(corpusLabel + "-tokens.txt"){write(wordList);close;}
+}
+
 
 def usage: Unit = {
-  
+  println("\n\nAvailable functions (use \"hyginus\" or \"pliny\" for \"CORPUS\"):")
+  println("\n1. Create a tokenizable corpus:")
+  println("\n\ttokenizable(\"CORPUS\")")
+
+  println("\n2. Create an alphabetically sorted word list:")
+  println("\n\twords(\"CORPUS\")")
+
+
+  println("\n3. Write an alphabetically sorted word list to disk:")
+  println("\n\twriteWords(\"CORPUS\")")
 }
+
+usage
