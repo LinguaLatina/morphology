@@ -13,14 +13,6 @@ has_children: true
 
 - [prerequisites](./prerequisites/)
 
-## Data sets
-
-The `datasets` directory is organized to facilitate building parallel parsers supporting three different orthographies of Latin, one using 23 alphabetic characters (no consonanatal `v` or `j`), one using 24 alphabetic characters (consonantal `v` but not `j`) and one using 25 alphabetic characters (both consonantal `v` and `j`).  The five subdirectories contain tabular data files organized according to the requirements of the [`tabulae`  system](https://github.com/neelsmith/tabulae).
-
-- `shared` and `shared_xls` include data common to all of the orthographies
-- `lat23`, `lat24` and `lat25` include data specific to one orthography
-
-
 
 
 ## Compiling a parser
