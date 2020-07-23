@@ -29,8 +29,8 @@ def tokenizable(corpusLabel: String) : TokenizableCorpus = {
 def words(corpusLabel: String, caseSensitive: Boolean = false): Vector[String] = {
   val tcorpus = tokenizable(corpusLabel)
   caseSensitive match {
-    case true => tcorpus.lexicalTokens.map(_.text.toLowerCase).distinct.sorted
-    case false => tcorpus.lexicalTokens.map(_.text).distinct.sorted
+    case true => tcorpus.lexicalTokens.map(_.text).distinct.sorted
+    case false => tcorpus.lexicalTokens.map(_.text.toLowerCase).distinct.sorted
   }
 }
 
