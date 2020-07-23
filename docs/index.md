@@ -11,7 +11,8 @@ The morphological data sets in this repository can be used with [tabulae](https:
 
 ## How to build and use parsers
 
-TBA
+- [building a parser](./building/)
+- parsing data
 
 ## Organization of data sets
 
