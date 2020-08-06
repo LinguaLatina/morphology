@@ -1,5 +1,5 @@
 
-# Lingua Latina: morphological data
+# *Lingua Latina Legenda*: morphological data
 
 Source files for building morphological parsers with the tabulae system are in subdirectories of the `datasets` directory.
 

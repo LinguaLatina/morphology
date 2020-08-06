@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Lingua Latina: morphological data"
+title: "Lingua Latina Legenda: morphological data"
 nav_order: 0
 ---
 
-# Lingua Latina: morphological data
+# *Lingua Latina Legenda*: morphological data
 
 The morphological data sets in this repository can be used with [tabulae](https://github.com/neelsmith/tabulae) to build corpus-specific parsers.
 
