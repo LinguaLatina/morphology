@@ -1,7 +1,12 @@
-StemUrn#LexicalEntity#StemString#MorphologicalClass
+StemUrn#LexicalEntity#StemString#MorphologicalClass#Notes
 
 
+latcommon.verbn14747#ls.n14747#dorm#conj4
+latcommon.verbn14747a#ls.n14747#dorm#pftact#Apocopated form
 
+latcommon.verbn43092a#ls.n43092#scrib#c3pres
+latcommon.verbn43092b#ls.n43092#scrips#pftact
+latcommon.verbn43092c#ls.n43092#script#pftpass
 
 latcommon.verbn18962a#ls.n18962#fulg#c2pres
 latcommon.verbn18962b#ls.n18962#fuls#pftact
