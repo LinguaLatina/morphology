@@ -1,2 +1,5 @@
-abbreviation#urnbase
-ls#urn:cite2:tabulae:ls.v1:
+abbreviation#urnbase#note
+ls#urn:cite2:tabulae:ls.v1:#Shared URN values with Lewis-Short
+composites#urn:cite2:l3:composites.v1:#Artificial compounding forms
+livy#urn:cite2:l3:livy.v1:#Named entities from Livy not in Lewis-Short
+l3#urn:cite2:l3:l3.v1:#Common vocabulary not in Lewis-Short
