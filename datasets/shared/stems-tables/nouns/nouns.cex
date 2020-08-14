@@ -1,6 +1,16 @@
 StemUrn#LexicalEntity#Stem#Gender#InflClass
 
 
+latcommon.nounn48735#ls.n48735#tranquillita#fem#s_tis
+latcommon.nounn35813#ls.n35813#petiti#fem#o_onis
+latcommon.nounn32939#ls.n32939#ordinati#fem#o_onis
+
+latcommon.nounn301533#ls.n30153#mutati#fem#o_onis
+
+latcommon.nounn25893#ls.n25893#largiti#fem#o_onis
+latcommon.nounn20809#ls.n20809#histori#fem#a_ae
+latcommon.nounn16811#ls.n16811#exercitati#fem#o_onis
+latcommon.nounn14725#ls.n14725#donati#fem#o_onis
 latcommon.nounn43872#ls.n43872#serm#masc#o_onis
 latcommon.nounn37565#ls.n37565#praefati#fem#o_onis
 latcommon.nounn26164#ls.n26164#legati#fem#o_onis
