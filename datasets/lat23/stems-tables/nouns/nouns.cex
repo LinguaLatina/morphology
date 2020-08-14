@@ -1,9 +1,5 @@
 StemUrn#LexicalEntity#Stem#Gender#InflClass
 
-
-lat23morph.nounn25293#ls.n25293#iudici#neut#us_i
-lat23morph.nounn50254#ls.n50254#uat#masc#es_is
-
 lat23morph.nounn4714#ls.n4714#au#fem#is_is
 lat23morph.nounn4729#ls.n4729#auuncul#masc#us_i
 lat23morph.nounn4730#ls.n4730#au#masc#us_i
@@ -19,6 +15,7 @@ lat23morph.nounn23517#ls.n23517#iniuri#fem#a_ae
 lat23morph.nounn24762#ls.n24762#inuidi#fem#a_ae
 lat23morph.nounn25182#ls.n25182#iacul#neut#us_i
 lat23morph.nounn25280#ls.n25280#iud#masc#ex_icis
+lat23morph.nounn25293#ls.n25293#iudici#neut#us_i
 lat23morph.nounn25394#ls.n25394#iu#neut#s_ris
 lat23morph.nounn25409#ls.n25409#iuss#masc#us_us
 lat23morph.nounn25447#ls.n25447#iuuent#fem#us_us
@@ -32,6 +29,7 @@ lat23morph.nounn45742#ls.n45742#suauita#fem#s_tis
 lat23morph.nounn50048#ls.n50048#uacc#fem#a_ae
 lat23morph.nounn50101#ls.n50101#uagit#masc#us_us
 lat23morph.nounn50145#ls.n50145#uall#neut#us_i
+lat23morph.nounn50254#ls.n50254#uat#masc#es_is
 lat23morph.nounn50393#ls.n50393#uenati#fem#o_onis
 lat23morph.nounn50523#ls.n50523#uerb#neut#us_i
 lat23morph.nounn50735#ls.n50735#uest#fem#is_is

@@ -1,8 +1,5 @@
 StemUrn#LexicalEntity#StemString#MorphologicalClass
 
-lat25morph.verbn50122#ls.n50122#val#conj2
-lat25morph.verbn51261#ls.n51261#vocifer#conj1
-
 lat25morph.verbn797a#ls.n797#adjic#c3iopres
 lat25morph.verbn797b#ls.n797#adjec#pftact
 lat25morph.verbn797c#ls.n797#adject#pftpass
@@ -92,6 +89,7 @@ lat25morph.verbn50077a#ls.n50077#vad#c3pres
 lat25morph.verbn50077b#ls.n50077#vas#pftact
 lat25morph.verbn50077c#ls.n50077#vas#pftpass
 lat25morph.verbn50077b#ls.n50077#vasi#pftact
+lat25morph.verbn50122#ls.n50122#val#conj2
 lat25morph.verbn50434#ls.n50434#vener#conj1dep
 lat25morph.verb50442a#ls.n50442#ven#c4pres
 lat25morph.verb50442b#ls.n50442#ven#pftact
@@ -117,5 +115,6 @@ lat25morph.verbnverb118#ls.n50968#vinc#c3pres
 lat25morph.verbnverb119#ls.n50968#vic#pftact
 lat25morph.verbnverb120#ls.n50968#vict#pftpass
 lat25morph.verbn50990#ls.n50990#vindic#conj1
+lat25morph.verbn51261#ls.n51261#vocifer#conj1
 lat25morph.verbn51266#ls.n51266#voc#conj1
 lat25morph.verbn51418#ls.n51418#vulg#conj1
