@@ -116,12 +116,14 @@ latcommon.verbn13370#ls.n13370#desider#conj1
 latcommon.verbn13384a#ls.n13384#desil#c4pres
 latcommon.verbn13384b#ls.n13384#desilu#pftact
 latcommon.verbn13384c#ls.n13384#desult#pftpass
+latcommon.verbn13454#ls.n13454#destin#conj1
 latcommon.verbn13456a#ls.n13456#destitu#c3pres
 latcommon.verbn13456b#ls.n13456#destitu#pftact
 latcommon.verbn13456c#ls.n13456#destitut#pftpass
 latcommon.verb13804a#ls.n13804#dic#conj3
 latcommon.verb13804b#ls.n13804#dix#pftact
 latcommon.verb13804c#ls.n13804#dict#pftpass
+latcommon.verbn13822#ls.n13822#dictit#conj1
 latcommon.verbn14028a#ls.n14028#dimitt#c3pres
 latcommon.verbn14028b#ls.n14028#dimis#pftact
 latcommon.verbn14028c#ls.n14028#dimis#pftpass
@@ -163,6 +165,7 @@ latcommon.verbn18034#ls.n18034#festin#conj1
 latcommon.verbn18150a#ls.n18150#fig#c3pres
 latcommon.verbn18150b#ls.n18150#fix#pftact
 latcommon.verbn18150c#ls.n18150#fix#pftpass
+latcommon.verbn18201#ls.n18201#fin#conj4
 latcommon.verbn18307#ls.n18307#form#conj1
 latcommon.verbn18352a#ls.n18352#flect#c3pres
 latcommon.verbn18352b#ls.n18352#flex#pftact
@@ -201,6 +204,7 @@ latcommon.verbn22294c#ls.n22294#incens#pftpass
 latcommon.verbn22350a#ls.n22350#incip#c3iopres
 latcommon.verbn22350b#ls.n22350#incep#pftact
 latcommon.verbn22350c#ls.n22350#incept#pftpass
+latcommon.verbn22372#ls.n22372#incit#conj1
 latcommon.verbn22609#ls.n22609#increp#conj1
 latcommon.verbn22781#ls.n22781#indic#conj1
 latcommon.verbn23757a#ls.n23757#insulp#c3pres
@@ -459,6 +463,9 @@ latcommon.verbn45457a#ls.n45457#st#c1pres
 latcommon.verbn45457b#ls.n45457#stet#pftact
 latcommon.verbn45457c#ls.n45457#stat#pftpass
 latcommon.verbn45502#ls.n45502#strament#conj1dep
+latcommon.verbn45638a#ls.n45638#stru#c3pres
+latcommon.verbn45638b#ls.n45638#strux#pftact
+latcommon.verbn45638c#ls.n45638#struct#pftpass
 latcommon.verbn45877a#ls.n45877#subig#c3pres
 latcommon.verbn45877b#ls.n45877#subeg#pftact
 latcommon.verbn45877c#ls.n45877#subact#pftpass
