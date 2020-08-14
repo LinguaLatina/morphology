@@ -1,10 +1,5 @@
 StemUrn#LexicalEntity#Stem#Gender#InflClass
 
-
-latcommon.nounn27308#ls.n27308#luxuri#fem#a_ae
-latcommon.nounn4581#ls.n4581#auror#fem#a_ae
-
-
 latcommon.nounn517#ls.n517#aci#fem#es_ei
 latcommon.nounn1139#ls.n1139#preti#neut#us_i
 latcommon.nounn1139#ls.n1139#aedifici#neut#us_i
@@ -46,6 +41,7 @@ latcommon.nounn4442#ls.n4442#audaci#fem#a_ae
 latcommon.nounn4479#ls.n4479#augur#masc#0_is
 latcommon.nounn4490#ls.n4490#auguri#neut#us_i
 latcommon.nounn4560#ls.n4560#aurig#fem#a_ae
+latcommon.nounn4581#ls.n4581#auror#fem#a_ae
 latcommon.nounn4588#ls.n4588#aur#neut#us_i
 latcommon.nounn4615#ls.n4615#aust#masc#er_ri
 latcommon.nounn4660#ls.n4660#auxili#neut#us_i
@@ -255,6 +251,7 @@ latcommon.nounn24407#ls.n24407#interpre#masc#s_tis
 latcommon.nounn24688#ls.n24688#inu#masc#us_i
 latcommon.nounn24762#ls.n24762#invidi#fem#a_ae
 latcommon.nounn24877#ls.n24877#ir#fem#a_ae
+latcommon.nounn25495#ls.n25495#labor#masc#0_is
 latcommon.nounn25611#ls.n25611#lac#masc#us_us
 latcommon.nounn25788#ls.n25788#lanifici#neut#us_i
 latcommon.nounn25849#ls.n25849#lapi#fem#s_dis
@@ -291,6 +288,7 @@ latcommon.nounn27171#ls.n27171#lud#masc#us_i
 latcommon.nounn27199#ls.n27199#lun#fem#a_ae
 latcommon.nounn27211#ls.n27211#lup#fem#a_ae
 latcommon.nounn27278#ls.n27278#lus#masc#us_us
+latcommon.nounn27308#ls.n27308#luxuri#fem#a_ae
 latcommon.nounn27313#ls.n27313#lux#masc#us_us
 latcommon.nounn27599#ls.n27599#magist#masc#er_ri
 latcommon.nounn27607#ls.n27607#magistrat#masc#us_us

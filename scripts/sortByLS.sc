@@ -58,7 +58,9 @@ val sharedCex = Vector (
   "datasets/shared/stems-tables/nouns/persons.cex",
 
   "datasets/shared/stems-tables/verbs-compound/compverbs.cex",
-  "datasets/shared/stems-tables/verbs-simplex/verbs.cex"
+  "datasets/shared/stems-tables/verbs-simplex/verbs.cex",
+
+  "datasets/shared/irregular-stems/adverbs/advs.cex"
 
 )
 
