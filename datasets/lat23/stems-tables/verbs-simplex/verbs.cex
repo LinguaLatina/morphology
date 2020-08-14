@@ -1,5 +1,12 @@
 StemUrn#LexicalEntity#StemString#MorphologicalClass
 
+
+lat23morph.verbn39941a#ls.n39941#quaer#c3pres
+lat23morph.verbn39941b#ls.n39941#quaes#pftact
+lat23morph.verbn39941b2#ls.n39941#quaesiu#pftact
+lat23morph.verbn39941c#ls.n39941#quaesit#pftpass
+
+
 lat23morph.verbn797a#ls.n797#adic#c3iopres
 lat23morph.verbn797b#ls.n797#adiec#pftact
 lat23morph.verbn797c#ls.n797#adiect#pftpass
