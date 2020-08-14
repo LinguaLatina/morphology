@@ -1,5 +1,26 @@
 StemUrn#LexicalEntity#Stem#Gender#InflClass
 
+
+
+
+latcommon.nounn25611#ls.n25611#lac#masc#us_us
+
+latcommon.nounn44246#ls.n44246#silenti#neut#us_i
+latcommon.nounn32877#ls.n32877#orati#fem#o_onis
+
+latcommon.nounn28184#ls.n28184#materi#fem#a_ae
+
+latcommon.nounn32391#ls.n32391#offici#neut#us_i
+latcommon.nounn26459#ls.n26459#libell#masc#us_i
+
+latcommon.nounn16796#ls.n16796#exempl#neut#us_i
+latcommon.nounn33211#ls.n33211#oti#neut#us_i
+latcommon.nounn26468#ls.n26468#lib#masc#er_ri
+latcommon.nounn15995#ls.n15995#epistul#fem#a_ae
+
+latcommon.nounn40449#ls.n40449#rati#fem#o_onis
+latcommon.nounn21857#ls.n21857#imperator#masc#0_is
+
 latcommon.nounn14855#ls.n14855#ductor#masc#0_is
 
 latcommon.nounn2236#ls.n2236#amiciti#fem#a_ae
