@@ -2,7 +2,6 @@ StemUrn#LexicalEntity#Stem#Gender#InflClass
 
 latcommon.nounn517#ls.n517#aci#fem#es_ei
 latcommon.nounn1017#ls.n1017#adulati#fem#o_onis
-latcommon.nounn1139#ls.n1139#preti#neut#us_i
 latcommon.nounn1139#ls.n1139#aedifici#neut#us_i
 latcommon.nounn1321#ls.n1321#aequor#neut#0_is
 latcommon.nounn1406#ls.n1406#aeta#fem#s_tis
@@ -416,6 +415,7 @@ latcommon.nounn37565#ls.n37565#praefati#fem#o_onis
 latcommon.nounn37752#ls.n37752#praemi#neut#us_i
 latcommon.nounn37972#ls.n37972#praesidi#neut#us_i
 latcommon.nounn38120#ls.n38120#praetor#masc#0_is
+latcommon.nounn38283#ls.n38283#preti#neut#us_i
 latcommon.nounn38283#ls.n38283#sem#neut#en_inis
 latcommon.nounn38341#ls.n38341#princ#masc#eps_ipis
 latcommon.nounn38437#ls.n38437#procell#fem#a_ae
