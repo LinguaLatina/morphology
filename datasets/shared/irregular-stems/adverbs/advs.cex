@@ -14,10 +14,15 @@ latcommon.irregadvn8472#ls.n8472#clam#pos
 latcommon.irregadvn9382#ls.n9382#comminus#pos
 latcommon.irregadvn10764#ls.n10764#contemptim#pos
 latcommon.irregadvn10857#ls.n10857#contra#pos
+latcommon.irregadvn11422#ls.n11422#cotidie#pos
+latcommon.irregadvn11977#ls.n11977#cur#pos
 latcommon.irregadvn12812#ls.n12812#deinde#pos
+latcommon.irregadvn13065#ls.n13065#demum#pos
 latcommon.irregadvn13091#ls.n13091#denique#pos
 latcommon.irregadvn14514#ls.n14514#diu#pos
 latcommon.irregadvn14720#ls.n14720#domi#pos
+latcommon.irregadvn14911#ls.n14911#dumtaxat#pos
+latcommon.irregadvn16053#ls.n16053#equidem#pos
 latcommon.irregadvnn16121#ls.n16121#ergo#pos
 latcommon.irregadvn17318#ls.n17318#extemplo#pos
 latcommon.irregadvn17400#ls.n17400#extrinsecus#pos
@@ -69,11 +74,13 @@ latcommon.irregadvn33974#ls.n33974#partim#pos
 latcommon.irregadvn33992#ls.n33992#parum#pos
 latcommon.irregadvn33993#ls.n33993#parumper#pos
 latcommon.irregadvn34005c#ls.n34005#minime#superl
+latcommon.irregadvn35068#ls.n35068#perinde#pos
 latcommon.irregadvn37196#ls.n37196#postea#pos
 latcommon.irregadvn37233#ls.n37233#postmodo#pos
 latcommon.irregadvn37243#ls.n37243#postremo#pos
 latcommon.irregadvn37310#ls.n37310#potius#comp
 latcommon.irregadvn37331#ls.n37331#prae#pos
+latcommon.irregadvn37955#ls.n37955#praesertim#pos
 latcommon.irregadvn37955#ls.n37955#praecipue#pos
 latcommon.irregadvn38069#ls.n38069#praeter#pos
 latcommon.irregadvn38074#ls.n38074#praeterea#pos
@@ -86,6 +93,7 @@ latcommon.irregadvn38952#ls.n38952#propter#pos
 latcommon.irregadvn39156#ls.n39156#protinus#pos
 latcommon.irregadvn39826#ls.n39826#quacumque#pos
 latcommon.irregadvn39979#ls.n39979#quamlibet#pos
+latcommon.irregadvn39989#ls.n39989#quando#pos
 latcommon.irregadvn40035#ls.n40035#quasi#pos
 latcommon.irregadvn40073#ls.n40073#quemadmodum#pos
 latcommon.irregadvn40114#ls.n40114#quidem#pos
@@ -116,6 +124,7 @@ latcommon.irregadvn48622#ls.n48622#tot#pos
 latcommon.irregadvn48624#ls.n48624#totiens#pos
 latcommon.irregadvn49390#ls.n49390#tum#pos
 latcommon.irregadvn49420#ls.n49420#tunc#pos
+latcommon.irregadvn49667#ls.n49667#ultra#pos
 latcommon.irregadvn49725#ls.n49725#umquam#pos
 latcommon.irregadvn49762#ls.n49762#unde#pos
 latcommon.irregadvn49795#ls.n49795#undique#pos

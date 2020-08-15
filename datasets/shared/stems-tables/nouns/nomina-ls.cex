@@ -1,6 +1,7 @@
 StemUrn#LexicalEntity#Stem#Gender#InflClass
 
 latcommon.nounn1639#ls.n1639#agripp#masc#a_ae
+latcommon.nounn6080#ls.n6080#caear#masc#0_is
 latcommon.nounn8534#ls.n8534#claudi#masc#us_i
 latcommon.nounn17466#ls.n17466#fabi#masc#us_i
 latcommon.nounn19114#ls.n19114#furi#masc#us_i
@@ -15,4 +16,5 @@ latcommon.nounn40217b#ls.n40217#quincti#masc#us_i
 latcommon.nounn40926#ls.n40926#regul#masc#us_i
 latcommon.nounn44022a#ls.n44022#sexti#masc#us_i
 latcommon.nounn44022b#ls.n44022#sesti#masc#us_i
+latcommon.nounn47369#ls.n47369#tacit#masc#us_i
 latcommon.nounn50772#ls.n50772#veturi#masc#us_i
