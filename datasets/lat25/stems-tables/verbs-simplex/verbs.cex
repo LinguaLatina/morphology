@@ -1,5 +1,10 @@
 StemUrn#LexicalEntity#StemString#MorphologicalClass
 
+lat25morph.verbn51238a#ls.n51238#viv#c3pres
+lat25morph.verbn51238b#ls.n51238#vix#pftact
+lat25morph.verbn51238c#ls.n51238#vict#pftpass
+
+
 lat25morph.verbn797a#ls.n797#adjic#c3iopres
 lat25morph.verbn797b#ls.n797#adjec#pftact
 lat25morph.verbn797c#ls.n797#adject#pftpass

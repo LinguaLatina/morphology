@@ -1,5 +1,23 @@
 StemUrn#LexicalEntity#StemString#MorphologicalClass#Notes
 
+
+
+
+latcommon.verblatcommon.verbn42571a#ls.n42571#sap#c3iopres
+latcommon.verblatcommon.verbn42571b#ls.n42571#sap#pftact
+
+
+latcommon.verbn33902#ls.n33902#par#conj1
+latcommon.verbn28786#ls.n28786#mer#conj2
+latcommon.verbn26186a#ls.n26186#leg#c3pres
+latcommon.verbn26186b#ls.n26186#leg#pftact
+latcommon.verbn26186c#ls.n26186#lect#pftpass
+
+latcommon.verbn20992#ls.n20992#hort#conj1dep
+
+latcommon.verbn16690#ls.n16690#excito#conj1
+latcommon.verbn2197#ls.n2197#ambul#conj1
+
 latcommon.verbn363a#ls.n363#accip#c3iopres
 latcommon.verbn363b#ls.n363#accep#pftact
 latcommon.verbn363c#ls.n363#accept#pftpass
