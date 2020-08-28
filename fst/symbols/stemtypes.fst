@@ -28,7 +28,7 @@
 
 
 % like acer/acris/acre
-#adj3# = <0_is_e>
+#adj3# = <0_is_e><er_ris_re>
 
 #adj3twoendings# = <is_e><er_ris_re><or_oris_comp><is_is2>
 

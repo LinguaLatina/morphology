@@ -1,7 +1,5 @@
 StemUrn#LexicalEntity#Stem#InflClass
 
-latcommon.indecln48739#ls.n48739#trans#indeclprep
-latcommon.indecln40071#ls.n40071#que#indeclconj
 latcommon.indecln4#ls.n4#a#indeclprep
 latcommon.indecln5#ls.n4#ab#indeclprep
 latcommon.indecln283#ls.n283#ac#indeclconj
@@ -66,5 +64,6 @@ latcommon.indecln44096#ls.n44096#si#indeclconj
 latcommon.indecln44372#ls.n44372#sine#indeclprep
 latcommon.indecln45746#ls.n45746#sub#indeclprep
 latcommon.indecln46609#ls.n46609#super#indeclprep
+latcommon.indecln48739#ls.n48739#trans#indeclprep
 latcommon.indecln49615#ls.n49615#ubi#indeclconj
 latcommon.indecln49975#ls.n49975#ut#indeclconj

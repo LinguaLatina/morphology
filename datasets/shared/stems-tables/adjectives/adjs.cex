@@ -1,23 +1,14 @@
 StemUrn#LexicalEntity#Stem#InflClass
 
-
-
-latcommon.adjn28054#ls.n28054#marit#us_a_um
-latcommon.adjn44089#ls.n44089#sext#us_a_um
-latcommon.adjn40033#ls.n40033#quart#us_a_um
-latcommon.adjn43770#ls.n43770#septim#us_a_um
-
-
-latcommon.adjn2061#ls.n2061#alt#us_a_um
-latcommon.adjn18637#ls.n18637#fort#is_e
-latcommon.adjn435#ls.n435#ac#er_ris_re
 latcommon.adjn204#ls.n204#abse#ns_ntis
+latcommon.adjn435#ls.n435#ac#er_ris_re
 latcommon.adjn1021#ls.n1021#adulesce#ns_ntis
 latcommon.adjn1162#ls.n1162#aeg#er_ra_rum
 latcommon.adjn1413#ls.n1413#aetern#us_a_um
 latcommon.adjn1719#ls.n1719#albin#us_a_um
 latcommon.adjn1743#ls.n1743#alb#us_a_um
 latcommon.adjn1842#ls.n1842#alien#us_a_um
+latcommon.adjn2061#ls.n2061#alt#us_a_um
 latcommon.adjn2246#ls.n2246#amic#us_a_um
 latcommon.adjn2365#ls.n2365#ampl#us_a_um
 latcommon.adjn2701#ls.n2701#annu#us_a_um
@@ -49,6 +40,7 @@ latcommon.adjn18045#ls.n18045#fest#us_a_um
 latcommon.adjn18052#ls.n18052#fetial#is_e
 latcommon.adjn18204#ls.n18204#finitim#us_a_um
 latcommon.adjnn18600#ls.n18600#formos#us_a_um
+latcommon.adjn18637#ls.n18637#fort#is_e
 latcommon.adjn19053#ls.n19053#funebr#is_e
 latcommon.adjn19387#ls.n19387#gemin#us_a_um
 latcommon.adjn19921#ls.n19921#grat#us_a_um
@@ -92,6 +84,7 @@ latcommon.adjn27151#ls.n27151#ludic#er_ra_rum
 latcommon.adjn27649#ls.n27649#maxim#us_a_um_superl
 latcommon.adjn27649#ls.n27649#magn#us_a_um
 latcommon.adjnn27776#ls.n27776#mal#us_a_um
+latcommon.adjn28054#ls.n28054#marit#us_a_um
 latcommon.adjn28253#ls.n28253#matutin#us_a_um
 latcommon.adjn28367#ls.n28367#medi#us_a_um
 latcommon.adjn28988#ls.n28988#me#us_a_um
@@ -133,6 +126,7 @@ latcommon.adjn39415#ls.n39415#pudic#us_a_um
 latcommon.adjn39435#ls.n39435#pueril#is_e
 latcommon.adjn39482#ls.n39482#pulch#er_ra_rum
 latcommon.adjn40013#ls.n40013#quant#us_a_um
+latcommon.adjn40033#ls.n40033#quart#us_a_um
 latcommon.adjn40221#ls.n40221#quint#us_a_um
 latcommon.adjn40532#ls.n40532#rece#ns_ntis
 latcommon.adjn40905#ls.n40905#regi#us_a_um
@@ -148,8 +142,10 @@ latcommon.adjn43239#ls.n43239#secret#us_a_um
 latcommon.adjn43273#ls.n43273#secund#us_a_um
 latcommon.adjn43350#ls.n43350#segn#is_e
 latcommon.adjn43608#ls.n43608#semproni#us_a_um
+latcommon.adjn43770#ls.n43770#septim#us_a_um
 latcommon.adjn43822#ls.n43822#sequi#us_a_um
 latcommon.adjn43869#ls.n43869#seri#us_a_um
+latcommon.adjn44089#ls.n44089#sext#us_a_um
 latcommon.adjn44132#ls.n44132#sicc#us_a_um
 latcommon.adjn44148#ls.n44148#sicini#us_a_um
 latcommon.adjn44303#ls.n44303#simil#is_e

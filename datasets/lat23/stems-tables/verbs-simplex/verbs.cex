@@ -1,9 +1,5 @@
 StemUrn#LexicalEntity#StemString#MorphologicalClass
 
-lat23morph.verbn14602a#ls.n14602#iac#c3iopres
-lat23morph.verbn14602b#ls.n14602#iec#pftact
-lat23morph.verbn14602c#ls.n14602#iact#pftpass
-
 lat23morph.verbn797a#ls.n797#adic#c3iopres
 lat23morph.verbn797b#ls.n797#adiec#pftact
 lat23morph.verbn797c#ls.n797#adiect#pftpass
@@ -34,6 +30,9 @@ lat23morph.verbn13630#ls.n13630#deuor#conj1
 lat23morph.verbn14559a#ls.n14559#diuid#c3pres
 lat23morph.verbn14559b#ls.n14559#diuis#pftact
 lat23morph.verbn14559c#ls.n14559#diuis#pftpass
+lat23morph.verbn14602a#ls.n14602#iac#c3iopres
+lat23morph.verbn14602b#ls.n14602#iec#pftact
+lat23morph.verbn14602c#ls.n14602#iact#pftpass
 lat23morph.verbn15868b1#ls.n15868#i#pftact
 lat23morph.verbn15868b2#ls.n15868#iu#pftact
 lat23morph.verbn16922a#ls.n16922#pl#c2pres
