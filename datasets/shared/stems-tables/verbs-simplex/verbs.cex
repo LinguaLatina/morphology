@@ -1,5 +1,8 @@
 StemUrn#LexicalEntity#StemString#MorphologicalClass#Notes
 
+
+latcommon.verbn39596#ls.n39596#pun#conj4
+latcommon.verbn14602#ls.n14602#doc#conj2
 latcommon.verbn363a#ls.n363#accip#c3iopres
 latcommon.verbn363b#ls.n363#accep#pftact
 latcommon.verbn363c#ls.n363#accept#pftpass
@@ -460,9 +463,10 @@ latcommon.verbn44480c#ls.n44480#stet#pftpass
 latcommon.verbn44608#ls.n44608#soleo#conj2
 latcommon.verbn44608#ls.n44608#sol#conj2
 latcommon.verbn44934#ls.n44934#spect#conj1
-latcommon.verbn45003a#ls.n45003#spic#c3iopres
-latcommon.verbn45003b#ls.n45003#spex#pftact
-latcommon.verbn45003c#ls.n45003#spect#pftpass
+latcommon.verbn44917a#ls.n44917#spec#c3iopres
+latcommon.verbn45003a#ls.n44917#spic#c3iopres
+latcommon.verbn45003b#ls.n44917#spex#pftact
+latcommon.verbn45003c#ls.n44917#spect#pftpass
 latcommon.verbn45100a#ls.n45100#spond#c2pres
 latcommon.verbn45100b#ls.n45100#spopond#pftact
 latcommon.verbn45100c#ls.n45100#spons#pftpass
