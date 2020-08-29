@@ -1,9 +1,5 @@
 StemUrn#LexicalEntity#Stem#InflClass
 
-
-
-latcommon.adjn49983#ls.n49983#ut#er_ra_rum
-latcommon.adjn49206#ls.n49206#trist#is_e
 latcommon.adjn204#ls.n204#abse#ns_ntis
 latcommon.adjn435#ls.n435#ac#er_ris_re
 latcommon.adjn1021#ls.n1021#adulesce#ns_ntis
@@ -169,6 +165,7 @@ latcommon.adjn47809#ls.n47809#tenu#is_e
 latcommon.adjn47944#ls.n47944#terti#us_a_um
 latcommon.adjn48966#ls.n48966#trepid#us_a_um
 latcommon.adjn49000#ls.n49000#tribunici#us_a_um
+latcommon.adjn49206#ls.n49206#trist#is_e
 latcommon.adjn49330#ls.n49330#tru#x_cis
 latcommon.adjn49387#ls.n49387#tulli#us_a_um
 latcommon.adjn49416#ls.n49416#tumultuos#us_a_um
@@ -176,5 +173,6 @@ latcommon.adjn49558#ls.n49558#tut#us_a_um
 latcommon.adjn49559#ls.n49559#tu#us_a_um
 latcommon.adjn49768#ls.n49768#undecim#us_a_um
 latcommon.adjn49861#ls.n49861#univers#us_a_um
+latcommon.adjn49983#ls.n49983#ut#er_ra_rum
 latcommon.adjn50252#ls.n50252#vast#us_a_um
 latcommon.adjn51307#ls.n51307#volsc#us_a_um
