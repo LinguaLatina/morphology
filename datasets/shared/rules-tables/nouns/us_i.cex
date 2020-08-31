@@ -1,7 +1,6 @@
 RuleUrn#InflectionClasses#Ending#Gender#Case#Number
 
 livymorph.us_i1#us_i#us#masc#nom#sg
-livymorph.us_i1b#us_i#os#masc#nom#sg
 livymorph.us_i2#us_i#i#masc#gen#sg
 livymorph.us_i3#us_i#o#masc#dat#sg
 livymorph.us_i4#us_i#um#masc#acc#sg
