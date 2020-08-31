@@ -13,6 +13,7 @@ latcommon.adjn2246#ls.n2246#amic#us_a_um
 latcommon.adjn2365#ls.n2365#ampl#us_a_um
 latcommon.adjn2701#ls.n2701#annu#us_a_um
 latcommon.adjn2898#ls.n2898#antiqu#us_a_um
+latcommon.adjn3230#ls.n3230#aprine#us_a_um
 latcommon.adjn4306#ls.n4306#atro#x_cis
 latcommon.adjn4547#ls.n4547#aure#us_a_um
 latcommon.adjn5195#ls.n5195#benign#us_a_um
@@ -33,6 +34,7 @@ latcommon.adjn14682#ls.n14682#domestic#us_a_um
 latcommon.adjn14834#ls.n14834#dubi#us_a_um
 latcommon.adjn16876#ls.n16876#exigu#us_a_um
 latcommon.adjn17511#ls.n17511#facil#is_e
+latcommon.adjn17632#ls.n17632#fals#us_a_um
 latcommon.adjn17908#ls.n17908#femine#us_a_um
 latcommon.adjn17971#ls.n17971#fero#x_cis
 latcommon.adjnn18024#ls.n18024#fess#us_a_um
@@ -81,8 +83,8 @@ latcommon.adjn26471#ls.n26471#liberal#is_e
 latcommon.adjn26587#ls.n26587#ligne#us_a_um
 latcommon.adjn26977#ls.n26977#long#us_a_um
 latcommon.adjn27151#ls.n27151#ludic#er_ra_rum
-latcommon.adjn27649#ls.n27649#maxim#us_a_um_superl
-latcommon.adjn27649#ls.n27649#magn#us_a_um
+latcommon.adjn27649a#ls.n27649#maxim#us_a_um_superl
+latcommon.adjn27649c#ls.n27649#magn#us_a_um_pos
 latcommon.adjnn27776#ls.n27776#mal#us_a_um
 latcommon.adjn28054#ls.n28054#marit#us_a_um
 latcommon.adjn28253#ls.n28253#matutin#us_a_um
@@ -118,6 +120,7 @@ latcommon.adjn37207#ls.n37207#poster#us_a_um
 latcommon.adjn37937#ls.n37937#praese#ns_ntis
 latcommon.adjn38334#ls.n38334#primor#is_e
 latcommon.adjn38340#ls.n38340#prim#us_a_um
+lat25morph.n38352#ls.n38352#pri#or_oris_comp
 latcommon.adjn38802#ls.n38802#prompt#us_a_um
 latcommon.adjn38951#ls.n38951#propri#us_a_um
 latcommon.adjn39243#ls.n39243#proxim#us_a_um
