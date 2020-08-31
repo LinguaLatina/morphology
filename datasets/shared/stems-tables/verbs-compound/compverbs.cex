@@ -22,6 +22,7 @@ latcommon.compoundn3986#ls.n3986#a#ls.n44917#aspicio
 latcommon.compound8130#ls.n8130#circum#ls.n3715#circumaro
 latcommon.compoundn8310#ls.n8310#circum#ls.n44934#circumspecto
 latcommon.compoundn8934#ls.n8934#cog#ls.n31146#cognomino
+latcommon.compoundn9093#ls.n9093#col#ls.n26891#colloco
 latcommon.compoundn9404#ls.n9404#com#ls.n29328#committo
 latcommon.compoundn9489#ls.n9489#com#ls.n30179#commuto
 latcommon.compoundn9557#ls.n9557#con#ls.n34449#conpello
@@ -61,19 +62,21 @@ latcommon.compoundn15140#ls.n15140#e#ls.n13804#edico
 latcommon.compoundn15216#ls.n15216#ex#ls.n17964#effero
 latcommon.compoundn15285#ls.n15285#ef#ls.n18943#effugio
 latcommon.compoundn15344#ls.n15344#e#ls.n21321#eicio
+latcommon.compoundn15734#ls.n15734#col#ls.n30423#enascor
 latcommon.compoundn16146#ls.n16146#e#composites.rip#eripio
 latcommon.compoundn16205#ls.n16205#e#ls.n42012#erumpo
 latcommon.compoundn16459#ls.n16459#e#ls.n50442#evenio
 latcommon.compoundn16525#ls.n16525#ex#ls.n440#exacerbo
 latcommon.compoundn16644#ls.n16644#ex#ls.n7275#excedo
 latcommon.compoundn16804#ls.n16804#ex#ls.n15868#exeo
+latcommon.compoundn17004#ls.n17004#ex#ls.n34449#expello
 latcommon.compoundn17092#ls.n17092#ex#ls.n37010#expono
 latcommon.compoundn17097#ls.n17097#ex#ls.n37168#exposco
 latcommon.compoundn17132#ls.n17132#ex#ls.n39477#expugno
 latcommon.compoundn17205#ls.n17205#ex#ls.n43823#exsequor
 latcommon.compoundn17239#ls.n17239#ex#ls.n44934#exspecto
 latcommon.compoundn21731#ls.n21731#in#ls.n29328#inmitto
-latcommon.compoundn21839#ls.n21839#in#ls.n34449#infero
+latcommon.compoundn21839#ls.n21839#in#ls.n17964#infero
 latcommon.compoundn21980#ls.n21980#im#ls.n37010#impono
 latcommon.compoundn22337#ls.n22337#in#composites.cid#incido
 latcommon.compoundn23167#ls.n23167#in#ls.n17964#infero
@@ -81,6 +84,7 @@ latcommon.compoundn24009#ls.n24009#in#ls.n45638#instruo
 latcommon.compoundn24062#ls.n24062#in#ls.n46529#insum
 latcommon.compoundn24136#ls.n24136#in#ls.n47751#intendo
 latcommon.compoundn24241#ls.n24241#inter#ls.n15868#intereo
+latcommon.compoundn24288#ls.n24288#inter#ls.n15868#intereo
 latcommon.compoundn24445#ls.n24445#inter#ls.n41838#interrogo
 latcommon.compoundn24446#ls.n24446#inter#ls.n42012#interrumpo
 latcommon.compoundn24507#ls.n24507#e#ls.n50442#intervenio
@@ -121,6 +125,7 @@ latcommon.compoundn41231#ls.n41231#re#ls.n38248#reprehenso
 latcommon.compoundn41303#ls.n41303#re#ls.n42969#rescindo
 latcommon.compoundn41420#ls.n41420#re#composites.stitu#restituo
 latcommon.compoundn41548#ls.n41548#re#ls.n49421#retundo
+latcommon.compoundn41583#ls.n41583#re#ls.n50654#reverto
 latcommon.compoundn46406#ls.n46406#sub#ls.n17964#subfero
 latcommon.compoundn46843#ls.n46843#super#ls.n37010#superpono
 latcommon.compoundn46980#ls.n46980#sup#ls.n37010#suppono

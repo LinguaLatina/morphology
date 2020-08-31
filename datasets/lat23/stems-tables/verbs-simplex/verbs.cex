@@ -38,6 +38,7 @@ lat23morph.verbn15868b2#ls.n15868#iu#pftact
 lat23morph.verbn16922a#ls.n16922#pl#c2pres
 lat23morph.verbn16922b#ls.n16922#pleu#pftact
 lat23morph.verbn16922c#ls.n16922#plet#pftpass
+lat23morph.verbn18355b#ls.n18355#fleu#pftact
 lat23morph.verbn21321a#ls.n21321#ic#c3iopres
 lat23morph.verbn21321b#ls.n21321#iec#pftact
 lat23morph.verbn21321c#ls.n21321#iect#pftpass
@@ -68,6 +69,7 @@ lat23morph.verbn35506#ls.n35506#perseuer#conj1
 lat23morph.verbn35822a#ls.n35822#pet#c3pres
 lat23morph.verbn35822b#ls.n35822#petiu#pftact
 lat23morph.verbn35822c#ls.n35822#petit#pftpass
+lat23morph.verbn38381#ls.n38381#priu#conj1
 lat23morph.verbn38635a#ls.n38635#sit#c4pres
 lat23morph.verbn38635b#ls.n38635#sit#pftact
 lat23morph.verbn38635bbis#ls.n38635#sitiu#pftact
@@ -78,6 +80,7 @@ lat23morph.verbn39941c#ls.n39941#quaesit#pftpass
 lat23morph.verbn42976a#ls.n42976#sc#c4pres
 lat23morph.verbn42976b#ls.n42976#sciu#pftact
 lat23morph.verbn42976c#ls.n42976#scit#pftact
+lat23morph.verbn43883b#ls.n43883#seu#pftact
 lat23morph.verbn43940#ls.n43940#seru#conj4
 lat23morph.verbn43947#ls.n43947#seru#conj1
 lat23morph.verbn44698a#ls.n44698#solv#c3pres

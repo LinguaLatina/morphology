@@ -38,6 +38,7 @@ lat25morph.verbn15868b2#ls.n15868#iv#pftact
 lat25morph.verbn16922a#ls.n16922#pl#c2pres
 lat25morph.verbn16922b#ls.n16922#plev#pftact
 lat25morph.verbn16922c#ls.n16922#plet#pftpass
+lat25morph.verbn18355b#ls.n18355#flev#pftact
 lat25morph.verbn21321a#ls.n21321#ic#c3iopres
 lat25morph.verbn21321b#ls.n21321#iec#pftact
 lat25morph.verbn21321c#ls.n21321#iect#pftpass
@@ -68,6 +69,7 @@ lat25morph.verbn35506#ls.n35506#persever#conj1
 lat25morph.verbn35822a#ls.n35822#pet#c3pres
 lat25morph.verbn35822b#ls.n35822#petiv#pftact
 lat25morph.verbn35822c#ls.n35822#petit#pftpass
+lat25morph.verbn38381#ls.n38381#priv#conj1
 lat25morph.verbn38635a#ls.n38635#sit#c4pres
 lat25morph.verbn38635b#ls.n38635#sit#pftact
 lat25morph.verbn38635bbis#ls.n38635#sitiv#pftact
@@ -78,6 +80,7 @@ lat25morph.verbn39941c#ls.n39941#quaesit#pftpass
 lat25morph.verbn42976a#ls.n42976#sc#c4pres
 lat25morph.verbn42976b#ls.n42976#sciv#pftact
 lat25morph.verbn42976c#ls.n42976#scit#pftact
+lat25morph.verbn43883b#ls.n43883#sev#pftact
 lat25morph.verbn43940#ls.n43940#serv#conj4
 lat25morph.verbn43947#ls.n43947#serv#conj1
 lat25morph.verbn44698a#ls.n44698#solv#c3pres
