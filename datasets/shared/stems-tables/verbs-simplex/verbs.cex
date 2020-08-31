@@ -32,6 +32,7 @@ latcommon.verbn4450a#ls.n4450#aud#c2pres
 latcommon.verbn4450c#ls.n4450#aus#pftpass
 latcommon.verbn4453#ls.n4453#aud#conj4
 latcommon.verbn4453b#ls.n4453#aud#pftact
+latcommon.verbn4453b2#ls.n4453#audi#pftact
 latcommon.verbn4470a#ls.n4470#aug#c2pres
 latcommon.verbn4470b#ls.n4470#aux#pftact
 latcommon.verbn4470c#ls.n4470#auct#pftpass
@@ -409,6 +410,7 @@ latcommon.verbn38635c#ls.n38635#proflux#pftpass
 latcommon.verbn38684#ls.n38684#prohib#conj2
 latcommon.verbn38920#ls.n38920#propiti#conj1
 latcommon.verbn39477#ls.n39477#pugn#conj1
+latcommon.verbn39477b#ls.n39477#pugn#pftactelided
 latcommon.verbn39596#ls.n39596#pun#conj4
 latcommon.verbn39703#ls.n39703#put#conj1
 latcommon.verbn39941a#ls.n39941#quaer#c3iopres
