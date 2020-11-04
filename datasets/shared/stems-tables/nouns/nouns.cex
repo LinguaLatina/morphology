@@ -1,5 +1,13 @@
 StemUrn#LexicalEntity#Stem#Gender#InflClass
 
+
+latcommon.nounn20996#ls.n20996#hort#masc#us_i
+latcommon.nounn17652#ls.n17652#famili#fem#a_ae
+latcommon.nounn27303#ls.n27303#lu#fem#x_cis
+
+latcommon.nounn28700#ls.n28700#mens#masc#is_is
+
+
 latcommon.nounn517#ls.n517#aci#fem#es_ei
 latcommon.nounn1017#ls.n1017#adulati#fem#o_onis
 latcommon.nounn1139#ls.n1139#aedifici#neut#us_i
@@ -10,6 +18,7 @@ latcommon.nounn1406#ls.n1406#aeta#fem#s_tis
 latcommon.nounn1410#ls.n1410#aeternita#fem#s_tis
 latcommon.nounn1534#ls.n1534#ag#masc#er_ri
 latcommon.nounn1581#ls.n1581#agm#neut#en_inis
+latcommon.noun1626#ls.1626#agricol#fem#a_ae
 latcommon.nounn1675#ls.n1675#alacri#fem#s_tis
 latcommon.nounn1846#ls.n1846#aliment#neut#us_i
 latcommon.nounn2236#ls.n2236#amiciti#fem#a_ae

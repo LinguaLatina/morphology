@@ -36,7 +36,8 @@
 %
 % 4. Indeclinable forms:
 %
-#indecl# = <indeclprep><indeclconj><indeclinterj><indeclnum>
+#indecl# = <indeclprep><indeclconj><indeclinterj><indeclnum><indeclparticle>
+
 
 
 % Consider whether those belong here or elsewhere...?
