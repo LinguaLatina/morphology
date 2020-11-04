@@ -1,24 +1,5 @@
 StemUrn#LexicalEntity#Stem#InflClass
 
-
-latcommon.adjn42563#ls.n42563#sapie#ns_ntis
-
-
-latcommon.adjn40033#ls.n40033#quart#us_a_um
-latcommon.adjn43770#ls.n43770#septim#us_a_um
-latcommon.adjn44089#ls.n44089#sext#us_a_um
-
-
-
-latcommon.adjn13864#ls.n13864#difficil#is_e
-latcommon.adjn2061#ls.n2061#alt#us_a_um
-
-latcommon.adjn18637#ls.n18637#fort#is_e
-latcommon.adjn20960#ls.n20960#horribil#is_e
-latcommon.adjn49206#ls.n49206#trist#is_e
-
-
-
 latcommon.adjn204#ls.n204#abse#ns_ntis
 latcommon.adjn435#ls.n435#ac#er_ris_re
 latcommon.adjn1021#ls.n1021#adulesce#ns_ntis
@@ -48,6 +29,7 @@ latcommon.adjn11509#ls.n11509#creb#er_ra_rum
 latcommon.adjn11726#ls.n11726#cruent#us_a_um
 latcommon.adjn11914#ls.n11914#cunct#us_a_um
 latcommon.adjn12494#ls.n12494#decim#us_a_um
+latcommon.adjn13864#ls.n13864#difficil#is_e
 latcommon.adjn13937#ls.n13937#dign#us_a_um
 latcommon.adjn14682#ls.n14682#domestic#us_a_um
 latcommon.adjn14834#ls.n14834#dubi#us_a_um
@@ -67,6 +49,7 @@ latcommon.adjn19053#ls.n19053#funebr#is_e
 latcommon.adjn19387#ls.n19387#gemin#us_a_um
 latcommon.adjn19921#ls.n19921#grat#us_a_um
 latcommon.adjn20889#ls.n20889#honest#us_a_um
+latcommon.adjn20960#ls.n20960#horribil#is_e
 latcommon.adjn21019#ls.n21019#hostil#is_e
 latcommon.adjnn21043#ls.n21043#human#us_a_um
 latcommon.adjn21377#ls.n21377#ignar#us_a_um
@@ -161,6 +144,7 @@ latcommon.adjn42157#ls.n42157#sac#er_ra_rum
 latcommon.adjn42202#ls.n42202#sacrosanct#us_a_um
 latcommon.adjn42500#ls.n42500#sanct#us_a_um
 latcommon.adjn42553#ls.n42553#san#us_a_um
+latcommon.adjn42563#ls.n42563#sapie#ns_ntis
 latcommon.adjn43239#ls.n43239#secret#us_a_um
 latcommon.adjn43273#ls.n43273#secund#us_a_um
 latcommon.adjn43350#ls.n43350#segn#is_e

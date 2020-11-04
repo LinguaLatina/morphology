@@ -1,10 +1,5 @@
 StemUrn#LexicalEntity#Stem#InflClass
 
-
-
-latcommon.indecln31391#ls.n31391#num#indeclparticle
-
-
 latcommon.indecln4#ls.n4#a#indeclprep
 latcommon.indecln5#ls.n4#ab#indeclprep
 latcommon.indecln283#ls.n283#ac#indeclconj
@@ -46,6 +41,7 @@ latcommon.indecln30605#ls.n30605#nec#indeclconj
 latcommon.indecln30776#ls.n30776#neque#indeclconj
 latcommon.indecln30883#ls.n30883#ni#indeclconj
 latcommon.indecln31008#ls.n31008#nisi#indeclconj
+latcommon.indecln31391#ls.n31391#num#indeclparticle
 latcommon.indecln31558#ls.n31558#o#indeclinterj
 latcommon.indecln31564#ls.n31564#ob#indeclprep
 latcommon.indecln34595#ls.n34595#per#indeclprep
