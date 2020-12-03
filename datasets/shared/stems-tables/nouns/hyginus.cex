@@ -3,6 +3,7 @@ StemUrn#LexicalEntity#Stem#Gender#InflClass
 latcommon.nounn305#ls.n305#acast#masc#us_i
 latcommon.nounn1121#ls.n1121#aeac#masc#us_i
 latcommon.nounn1181#ls.n1181#aegisth#masc#us_i
+latcommon.nounn1184#ls.n1184#aegl#fem#e_es
 latcommon.nounn1263#ls.n1263#aeol#masc#us_i
 latcommon.nounn1642#ls.n1642#agri#masc#us_i
 latcommon.nounn1772#ls.n1772#alcyon#fem#e_es
@@ -11,13 +12,16 @@ latcommon.nounn1986#ls.n1986#alop#fem#e_es
 latcommon.nounn2327#ls.n2327#amphion#masc#0_is
 latcommon.nounn2402#ls.n2402#amymon#fem#e_es
 latcommon.nounn3063#ls.n3063#apoll#masc#o_inis
+latcommon.nounn3529#ls.n3529#aret#fem#e_es
 latcommon.nounn3611#ls.n3611#ariadn#fem#e_ae
 latcommon.nounn3611#ls.n3611#ariadn#fem#e_es
+latcommon.nounn4133#ls.n4133#asteri#fem#e_es
 latcommon.nounn4223#ls.n4223#atalant#fem#e_es
 latcommon.nounn4239#ls.n4239#athama#masc#s_ntis
 latcommon.nounn4581#ls.n4581#auror#fem#a_ae
 latcommon.nounn6944#ls.n6944#cassandr#fem#a_ae
 latcommon.nounn7680#ls.n7680#chalicop#fem#e_es
+latcommon.nounn7810#ls.n7810#chion#fem#e_es
 latcommon.nounn7901#ls.n7901#chrys#fem#e_es
 latcommon.nounn8091#ls.n8091#circ#fem#e_es
 latcommon.nounn12263#ls.n12263#daedal#masc#us_i
@@ -51,3 +55,4 @@ latcommon.nounn36940#ls.n36940#polynic#masc#es_is_gk
 latcommon.nounn39738#ls.n39738#pylad#masc#es_ae3
 latcommon.nounn43184#ls.n43184#scyll#fem#a_ae
 latcommon.nounn48408#ls.n48408#tiresi#masc#as_ae
+latcommon.nounn51541#ls.n51541#zet#masc#es_ae
