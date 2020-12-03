@@ -11,6 +11,7 @@ latcommon.nounn1986#ls.n1986#alop#fem#e_es
 latcommon.nounn2327#ls.n2327#amphion#masc#0_is
 latcommon.nounn2402#ls.n2402#amymon#fem#e_es
 latcommon.nounn3063#ls.n3063#apoll#masc#o_inis
+latcommon.nounn3611#ls.n3611#ariadn#fem#e_ae
 latcommon.nounn3611#ls.n3611#ariadn#fem#e_es
 latcommon.nounn4223#ls.n4223#atalant#fem#e_es
 latcommon.nounn4239#ls.n4239#athama#masc#s_ntis
@@ -23,6 +24,7 @@ latcommon.nounn12263#ls.n12263#daedal#masc#us_i
 latcommon.nounn12311#ls.n12311#dana#fem#e_es
 latcommon.nounn13731#ls.n13731#dian#fem#a_ae
 latcommon.nounn16133#ls.n16133#erigon#fem#e_es
+latcommon.nounn16281#ls.n16281#eteocl#masc#es_is_gk
 latcommon.nounn16342#ls.n16342#eumae#masc#us_i
 latcommon.nounn20249#ls.n20249#harpalyc#fem#e_es
 latcommon.nounn20321#ls.n20321#hector#masc#0_is
@@ -31,15 +33,19 @@ latcommon.nounn21232#ls.n21232#hypsipyl#fem#e_es
 latcommon.nounn24836#ls.n24836#iocast#fem#e_es
 latcommon.nounn25821#ls.n25821#laodami#fem#a_ae
 latcommon.nounn27366#ls.n27366#lyc#masc#us_i
+latcommon.nounn28097#ls.n28097#marsy#masc#as_ae
 latcommon.nounn28296#ls.n28296#mede#fem#a_ae
+latcommon.nounn28476#ls.n28476#melicert#masc#es_ae
 latcommon.nounn28776#ls.n28776#mercuri#masc#us_i
 latcommon.nounn28825#ls.n28825#merop#fem#e_es
 latcommon.nounn30698#ls.n30698#nele#masc#us_i
 latcommon.nounn31002#ls.n31002#nire#masc#us_i
 latcommon.nounn32294#ls.n32294#oeagr#masc#us_i
+latcommon.nounn32709#ls.n32709#ophit#masc#es_ae
 latcommon.nounn33424#ls.n33424#palamed#masc#es_is
 latcommon.nounn34403#ls.n34403#pele#masc#us_i
 latcommon.nounn34408#ls.n34408#peli#masc#as_ae
+latcommon.nounn34491#ls.n34491#penelop#fem#e_es
 latcommon.nounn36036#ls.n36036#philoctet#masc#es_ae
 latcommon.nounn36940#ls.n36940#polynic#masc#es_is_gk
 latcommon.nounn39738#ls.n39738#pylad#masc#es_ae3
