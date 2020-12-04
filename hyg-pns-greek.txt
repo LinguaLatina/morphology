@@ -10,7 +10,6 @@ pirithous
 
 NEED ID
 argiopes
-athenas
 dioxippe
 eueris
 hippoten
