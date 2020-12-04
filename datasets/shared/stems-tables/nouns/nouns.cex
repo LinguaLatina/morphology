@@ -225,6 +225,7 @@ latcommon.nounn18993#ls.n18993#fulm#neut#en_inis
 latcommon.nounn19035#ls.n19035#fundament#neut#us_i
 latcommon.nounn19075#ls.n19075#fun#neut#us_eris
 latcommon.nounn19099#ls.n19099#furi#fem#a_ae
+latcommon.nounn19124#ls.n19124#furor#masc#0_is
 latcommon.nounn19336#ls.n19336#gaudi#neut#us_i
 latcommon.nounn19461#ls.n19461#gen#fem#s_tis
 latcommon.nounn19471#ls.n19471#gen#neut#us_us
@@ -289,6 +290,7 @@ latcommon.nounn26164#ls.n26164#legati#fem#o_onis
 latcommon.nounn26169#ls.n26169#legat#masc#us_i
 latcommon.nounn26173#ls.n26173#legi#fem#o_onis
 latcommon.nounn26265#ls.n26265#le#masc#o_onis
+latcommon.nounn26341#ls.n26341#let#neut#us_i
 latcommon.nounn26431#ls.n26431#le#fem#x_gis
 latcommon.nounn26459#ls.n26459#libell#masc#us_i
 latcommon.nounn26468#ls.n26468#lib#masc#er_ri
@@ -552,6 +554,7 @@ latcommon.nounn49434#ls.n49434#turb#fem#a_ae
 latcommon.n49506#ls.n49506#turr#masc#i_is_is
 latcommon.nounn49664#ls.n49664#ulti#fem#o_onis
 latcommon.nounn49665#ls.n49665#ultor#masc#0_is
+latcommon.nounn49715#ls.n49715#umer#masc#us_i
 latcommon.nounn49895#ls.n49895#urb#fem#s_is
 latcommon.nounn49989#ls.n49989#uter#masc#us_i
 latcommon.nounn49996#ls.n49996#utilita#fem#s_tis
