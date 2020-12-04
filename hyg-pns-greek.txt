@@ -1,20 +1,10 @@
-CHECK PROSOPOGRAPHY
-melite
-
-BY ORTHO
-agaue
-euadne
-eueris
 
 WHAT DECL?
 alcestim
 alcestis
 hippothous
-melas
-midas
 minos
 pan
-persen
 pirithous
 
 
@@ -22,6 +12,7 @@ NEED ID
 argiopes
 athenas
 dioxippe
+eueris
 hippoten
 hippothoe
 theonoe
