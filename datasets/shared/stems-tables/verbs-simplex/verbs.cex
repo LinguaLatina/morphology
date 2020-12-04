@@ -6,11 +6,14 @@ latcommon.verbn363c#ls.n363#accept#pftpass
 latcommon.verbn428#ls.n428#accus#conj1
 latcommon.verbn440#ls.n440#acerb#conj1
 latcommon.verbn691#ls.n691#adam#conj1
+latcommon.verbn1140#ls.n1140#aedific#conj1
+latcommon.verbn1320#ls.n1320#aequ#conj1
 latcommon.verbn1392#ls.n1392#aestim#conj1
 latcommon.verbn1605a#ls.n1605#ag#c3pres
 latcommon.verbn1605b#ls.n1605#eg#pftact
 latcommon.verbn1605c#ls.n1605#act#pftpass
 latcommon.verbn1947#ls.n1947#allig#conj1
+latcommon.verbn2074#ls.n2074#mir#conj1
 latcommon.verbn2197#ls.n2197#ambul#conj1
 latcommon.verbn2280#ls.n2280#am#conj1
 latcommon.verbn2980a#ls.n2980#aper#c4pres
@@ -36,10 +39,18 @@ latcommon.verbn4453b2#ls.n4453#audi#pftact
 latcommon.verbn4470a#ls.n4470#aug#c2pres
 latcommon.verbn4470b#ls.n4470#aux#pftact
 latcommon.verbn4470c#ls.n4470#auct#pftpass
+latcommon.verbn4493#ls.n4493#augor#conj1dep
+latcommon.verbn4580#ls.n4580#aur#conj1
+latcommon.verbn5128#ls.n5128#belliger#conj1
+latcommon.verbn5136#ls.n5136#bell#conj1
 latcommon.verbn5275#ls.n5275#bib#conj3
+latcommon.verbn5455#ls.n5455#bland#conj4
+latcommon.verbn5803#ls.n5803#buccin#conj1
 latcommon.verbn6011a#ls.n6011#caed#c3pres
 latcommon.verbn6011b#ls.n6011#cecid#pftact
 latcommon.verbn6011c#ls.n6011#caes#pftpass
+latcommon.verbn6040#ls.n6040#cael#conj1
+latcommon.verbn6200#ls.n6200#calc#conj1
 latcommon.verbn6524a#ls.n6524#can#c3pres
 latcommon.verbn6524b#ls.n6524#cecin#pftact
 latcommon.verbn6524c#ls.n6524#cant#pftpass
@@ -272,6 +283,7 @@ latcommon.verbn28797b#ls.n28797#mers#pftact
 latcommon.verbn28797c#ls.n28797#mers#pftpass
 latcommon.verbn29030#ls.n29030#migr#conj1
 latcommon.verbn29160#ls.n29160#minit#conj1
+latcommon.verbn29164#ls.n29164#min#conj1
 latcommon.verbn29234#ls.n29234#mir#conj1dep
 latcommon.verbn29242a#ls.n29242#misc#c2pres
 latcommon.verbn29242b#ls.n29242#mixt#pftpass
@@ -305,6 +317,9 @@ latcommon.verbn31035a#ls.n31035#nit#c3presdep
 latcommon.verbn31035b#ls.n31035#nis#pftpass
 latcommon.verbn31073#ls.n31073#noc#conj2
 latcommon.verbn31146#ls.n31146#nomin#conj1
+latcommon.verbn31336a#ls.n31336#nub#c3pres
+latcommon.verbn31336b#ls.n31336#nups#pftact
+latcommon.verbn31336c#ls.n31336#nupt#pftpass
 latcommon.verbn31452#ls.n31452#nuncup#conj1
 latcommon.verbn31472#ls.n31472#nunti#conj1
 latcommon.verbn31512a#ls.n31512#nutr#c4pres
@@ -339,6 +354,7 @@ latcommon.verbn32359a#ls.n32359#offend#c3pres
 latcommon.verbn32359b#ls.n32359#offend#pftact
 latcommon.verbn32359#ls.n32359#offens#pftpass
 latcommon.verbn32747#ls.n32747#opin#conj1
+latcommon.verbn32852#ls.n32852#opt#conj1
 latcommon.verbn33000a#ls.n33000#or#c4pres
 latcommon.verbn33000c#ls.n33000#ort#pftpass
 latcommon.verbn33028#ls.n33028#orn#conj1
@@ -389,6 +405,10 @@ latcommon.verbn35822b#ls.n35822#petiv#pftact
 latcommon.verbn35822c#ls.n35822#peti#pftact
 latcommon.verbn35822d#ls.n35822#petit#pftpass
 latcommon.verbn36504#ls.n36504#plac#conj2
+latcommon.verbn36517a#ls.n36517#portend#c3pres
+latcommon.verbn36517b#ls.n36517#portend#pftact
+latcommon.verbn36517c#ls.n36517#portent#pftpass
+latcommon.verbn36517#ls.n36517#plac#conj1
 latcommon.verbn36652#ls.n36652#pl#conj2
 latcommon.verbn36695#ls.n36695#plor#conj1
 latcommon.verbn36862a#ls.n36862#pollic#c2presdep
@@ -402,6 +422,7 @@ latcommon.verbn37168b#ls.n37168#poposc#pftact
 latcommon.verbn37191a#ls.n37191#possid#c2pres
 latcommon.verbn37191b#ls.n37191#possed#pftact
 latcommon.verbnn37191c#ls.n37191#possess#pftpass
+latcommon.verbn37260#ls.n37260#postul#conj1
 latcommon.verbn37307#ls.n37307#pot#conj4
 latcommon.verbn37341a#ls.n37341#praeb#c2pres
 latcommon.verbn37341b#ls.n37341#praebu#pftact
@@ -509,6 +530,8 @@ latcommon.verbn45003b#ls.n44917#spex#pftact
 latcommon.verbn45003c#ls.n44917#spect#pftpass
 latcommon.verbn44934#ls.n44934#spect#conj1
 latcommon.verbn44970#ls.n44970#sper#conj1
+latcommon.verbn45054#ls.n45054#spir#conj1
+latcommon.verbn45094#ls.n45094#spoli#conj1
 latcommon.verbn45100a#ls.n45100#spond#c2pres
 latcommon.verbn45100b#ls.n45100#spopond#pftact
 latcommon.verbn45100c#ls.n45100#spons#pftpass
@@ -565,6 +588,10 @@ latcommon.verbn47751c#ls.n47751#tent#pftpass
 latcommon.verbn47770a#ls.n47770#ten#c2pres
 latcommon.verbn47770b#ls.n47770#tenu#pftact
 latcommon.verbn47770c#ls.n47770#tens#pftpass
+latcommon.verbn47796a#ls.n47796#teg#c3pres
+latcommon.verbn47796b#ls.n47796#tex#pftact
+latcommon.verbn47796c#ls.n47796#tect#pftpass
+latcommon.verbn47796#ls.n47796#tent#conj1
 latcommon.verbn47796#ls.n47796#tempt#conj1
 latcommon.verbn47901#ls.n47901#terr#conj2
 latcommon.verbn47983#ls.n47983#test#conj1
@@ -595,5 +622,8 @@ latcommon.verbn49421a#ls.n49421#tund#c3pres
 latcommon.verbn49421b1#ls.n49421#tutud#pftact
 latcommon.verbn49421b2#ls.n49421#tud#pftact
 latcommon.verbn49421c#ls.n49421#tuns#pftpass
+latcommon.verbn49551#ls.n49551#tut#conj1dep
+latcommon.verbn49595#ls.n49595#tyrann#masc#us_i
+latcommon.verbn49971#ls.n49971#usurp#conj1
 latcommon.verbn50002a#ls.n50002#ut#c3pres
 latcommon.verbn50002c#ls.n50002#us#pftpass

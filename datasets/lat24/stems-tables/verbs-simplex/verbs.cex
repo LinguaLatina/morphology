@@ -1,5 +1,6 @@
 StemUrn#LexicalEntity#StemString#MorphologicalClass
 
+lat24morph.verbn50445#ls.n50445#ven#conj1dep
 lat24morph.verbn797a#ls.n797#adic#c3iopres
 lat24morph.verbn797b#ls.n797#adiec#pftact
 lat24morph.verbn797c#ls.n797#adiect#pftpass
@@ -62,6 +63,7 @@ lat24morph.verbn25449c#ls.n25449#iut#pftpass
 lat24morph.verbn29781a#ls.n29781#mov#c2pres
 lat24morph.verbn29781b#ls.n29781#mov#pftact
 lat24morph.verbn29781c#ls.n29781#mot#pftpass
+lat24morph.verbn30567#ls.n30567#navig#conj1
 lat24morph.verbn31212a#ls.n31212#nosc#c3pres
 lat24morph.verbn31212b#ls.n31212#nov#pftact
 lat24morph.verbn31212c#ls.n31212#not#pftpass
@@ -102,10 +104,15 @@ lat24morph.verbn50077a#ls.n50077#vad#c3pres
 lat24morph.verbn50077b#ls.n50077#vas#pftact
 lat24morph.verbn50077c#ls.n50077#vas#pftpass
 lat24morph.verbn50077b#ls.n50077#vasi#pftact
+lat24morph.verbn50102#ls.n50102#vag#conj1
 lat24morph.verbn50122#ls.n50122#val#conj2
+lat24morph.verbn50250#ls.n50250#vast#conj1
 lat24morph.verbn50322a#ls.n50322#veh#c3pres
 lat24morph.verbn50322b#ls.n50322#vex#pftact
 lat24morph.verbn50322c#ls.n50322#vect#pftpass
+lat24morph.verbn50411a#ls.n50411#vend#c3pres
+lat24morph.verbn50411b#ls.n50411#vendid#pftact
+lat24morph.verbn50411c#ls.n50411#vendit#pftpass
 lat24morph.verbn50434#ls.n50434#vener#conj1dep
 lat24morph.verbn50442a#ls.n50442#ven#c4pres
 lat24morph.verbn50442b#ls.n50442#ven#pftact
@@ -131,9 +138,15 @@ lat24morph.verbnverb119#ls.n50968#vic#pftact
 lat24morph.verbnverb120#ls.n50968#vict#pftpass
 lat24morph.verbn50990#ls.n50990#vindic#conj1
 lat24morph.verbn51027#ls.n51027#viol#conj1
+lat24morph.verbn51191#ls.n51191#vit#conj1
 lat24morph.verbn51238a#ls.n51238#viv#c3pres
 lat24morph.verbn51238b#ls.n51238#vix#pftact
 lat24morph.verbn51238c#ls.n51238#vict#pftpass
 lat24morph.verbn51261#ls.n51261#vocifer#conj1
 lat24morph.verbn51266#ls.n51266#voc#conj1
+lat24morph.verbn51299#ls.n51299#vol#conj1
+lat24morph.verbn51405a#ls.n51405#vov#c2pres
+lat24morph.verbn51405b#ls.n51405#vov#pftact
+lat24morph.verbn51405c#ls.n51405#vot#pftpass
 lat24morph.verbn51418a#ls.n51418#vulg#conj1
+lat24morph.verbn51424#ls.n51424#vulner#conj1

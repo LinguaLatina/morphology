@@ -1,5 +1,8 @@
 StemUrn#LexicalEntity#StemString#MorphologicalClass
 
+
+
+lat23morph.verbn50445#ls.n50445#uen#conj1dep
 lat23morph.verbn797a#ls.n797#adic#c3iopres
 lat23morph.verbn797b#ls.n797#adiec#pftact
 lat23morph.verbn797c#ls.n797#adiect#pftpass
@@ -62,6 +65,7 @@ lat23morph.verbn25449c#ls.n25449#iut#pftpass
 lat23morph.verbn29781a#ls.n29781#mou#c2pres
 lat23morph.verbn29781b#ls.n29781#mou#pftact
 lat23morph.verbn29781c#ls.n29781#mot#pftpass
+lat23morph.verbn30567#ls.n30567#nauig#conj1
 lat23morph.verbn31212a#ls.n31212#nosc#c3pres
 lat23morph.verbn31212b#ls.n31212#nou#pftact
 lat23morph.verbn31212c#ls.n31212#not#pftpass
@@ -86,9 +90,11 @@ lat23morph.verbn42976c#ls.n42976#scit#pftact
 lat23morph.verbn43883b#ls.n43883#seu#pftact
 lat23morph.verbn43940#ls.n43940#seru#conj4
 lat23morph.verbn43947#ls.n43947#seru#conj1
+lat23morph.verbn44698a#ls.n44698#solu#c3pres
+lat23morph.verbn44698b#ls.n44698#solu#pftact
+lat23morph.verbn44698c#ls.n44698#solut#pftpass
 lat23morph.verbn44698a#ls.n44698#solv#c3pres
 lat23morph.verbn44698b#ls.n44698#solv#pftact
-lat23morph.verbn44698c#ls.n44698#solut#pftpass
 lat23morph.verbn44968a#ls.n44968#spern#c3pres
 lat23morph.verbn44968b#ls.n44968#spreu#pftact
 lat23morph.verbn44968c#ls.n44968#spret#pftpass
@@ -102,10 +108,15 @@ lat23morph.verbn50077a#ls.n50077#uad#c3pres
 lat23morph.verbn50077b#ls.n50077#uas#pftact
 lat23morph.verbn50077c#ls.n50077#uas#pftpass
 lat23morph.verbn50077b#ls.n50077#uasi#pftact
+lat23morph.verbn50102#ls.n50102#uag#conj1
 lat23morph.verbn50122#ls.n50122#ual#conj2
+lat23morph.verbn50250#ls.n50250#uast#conj1
 lat23morph.verbn50322a#ls.n50322#ueh#c3pres
 lat23morph.verbn50322b#ls.n50322#uex#pftact
 lat23morph.verbn50322c#ls.n50322#uect#pftpass
+lat23morph.verbn50411a#ls.n50411#uend#c3pres
+lat23morph.verbn50411b#ls.n50411#uendid#pftact
+lat23morph.verbn50411c#ls.n50411#uendit#pftpass
 lat23morph.verbn50434#ls.n50434#uener#conj1dep
 lat23morph.verbn50442a#ls.n50442#uen#c4pres
 lat23morph.verbn50442b#ls.n50442#uen#pftact
@@ -131,9 +142,15 @@ lat23morph.verbnverb119#ls.n50968#uic#pftact
 lat23morph.verbnverb120#ls.n50968#uict#pftpass
 lat23morph.verbn50990#ls.n50990#uindic#conj1
 lat23morph.verbn51027#ls.n51027#uiol#conj1
+lat23morph.verbn51191#ls.n51191#uit#conj1
 lat23morph.verbn51238a#ls.n51238#uiu#c3pres
 lat23morph.verbn51238b#ls.n51238#uix#pftact
 lat23morph.verbn51238c#ls.n51238#uict#pftpass
 lat23morph.verbn51261#ls.n51261#uocifer#conj1
 lat23morph.verbn51266#ls.n51266#uoc#conj1
+lat23morph.verbn51299#ls.n51299#uol#conj1
+lat23morph.verbn51405a#ls.n51405#uou#c2pres
+lat23morph.verbn51405b#ls.n51405#uou#pftact
+lat23morph.verbn51405c#ls.n51405#uot#pftpass
 lat23morph.verbn51418a#ls.n51418#uulg#conj1
+lat23morph.verbn51424#ls.n51424#uulner#conj1
