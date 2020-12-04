@@ -1208,8 +1208,6 @@ pinum
 piratae
 piraticam
 pitulum
-placandam
-placaret
 plumbum
 pluuia
 pluuias
@@ -1413,8 +1411,6 @@ separatim
 sepeliuit
 septenos
 sepulchrum
-sepulcro
-sepulcrum
 serpentium
 serram
 seruitium
@@ -1434,8 +1430,6 @@ socerum
 somniis
 somno
 sonitu
-sonum
-sonus
 sopito
 sortium
 sparsa
@@ -1549,11 +1543,6 @@ ualde
 ualidius
 ualle
 ualuas
-uariae
-uarii
-uariis
-uastando
-uastaret
 uaticinaretur
 ubera
 uberibus
