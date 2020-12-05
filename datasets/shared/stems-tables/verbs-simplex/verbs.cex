@@ -445,7 +445,13 @@ latcommon.verbn380122#ls.n38012#praest#c1pres
 latcommon.verbn38012b#ls.n38012#praestit#pftact
 latcommon.verbn38012c#ls.n38012#praestit#pftpass
 latcommon.verbn38245#ls.n38245#prec#conj1
+latcommon.verbn38246a#ls.n38246#prend#c3pres
+latcommon.verbn38246b#ls.n38246#prend#pftact
+latcommon.verbn38246c#ls.n38246#prens#pftpass
 latcommon.verbn38248#ls.n38248#prehens#conj1
+latcommon.verbn38253a#ls.n38253#prem#c3pres
+latcommon.verbn38253b#ls.n38253#press#pftact
+latcommon.verbn38253c#ls.n38253#press#pftpass
 latcommon.verbn38381#ls.n38381#priv#conj1
 latcommon.verbn38498#ls.n38498#procre#conj1
 latcommon.verbn38618a#ls.n38618#profic#c3iopres
@@ -457,6 +463,7 @@ latcommon.verbn38635a#ls.n38635#proflu#c3pres
 latcommon.verbn38635b#ls.n38635#proflux#pftact
 latcommon.verbn38635c#ls.n38635#proflux#pftpass
 latcommon.verbn38684#ls.n38684#prohib#conj2
+latcommon.verbn38857#ls.n38857#propag#conj1
 latcommon.verbn38920#ls.n38920#propiti#conj1
 latcommon.verbn39477#ls.n39477#pugn#conj1
 latcommon.verbn39477b#ls.n39477#pugn#pftactelided

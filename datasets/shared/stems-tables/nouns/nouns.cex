@@ -467,12 +467,14 @@ latcommon.nounn37077#ls.n37077#popul#masc#us_i
 latcommon.nounn37124#ls.n37124#port#fem#a_ae
 latcommon.nounn37265#ls.n37265#postum#masc#us_i
 latcommon.nounn37292#ls.n37292#potesta#fem#s_tis
+latcommon.nounn37329#ls.n37329#pot#masc#us_us
 latcommon.nounn37438#ls.n37438#praec#masc#o_onis
 latcommon.nounn37484#ls.n37484#praed#fem#a_ae
 latcommon.nounn37565#ls.n37565#praefati#fem#o_onis
 latcommon.nounn37752#ls.n37752#praemi#neut#us_i
 latcommon.nounn37972#ls.n37972#praesidi#neut#us_i
 latcommon.nounn38120#ls.n38120#praetor#masc#0_is
+latcommon.nounn38233#ls.n38233#precati#fem#o_onis
 latcommon.nounn38283#ls.n38283#preti#neut#us_i
 latcommon.nounn38283#ls.n38283#sem#neut#en_inis
 latcommon.nounn38284#ls.n38284#pre#fem#x_cis
@@ -483,6 +485,7 @@ latcommon.nounn38518#ls.n38518#procurati#fem#o_onis
 latcommon.nounn38534#ls.n38534#proc#masc#us_i
 latcommon.nounn38556#ls.n38556#prodigi#neut#us_i
 latcommon.nounn38589#ls.n38589#proeli#neut#us_i
+latcommon.nounn38716#ls.n38716#prol#fem#es_is
 latcommon.nounn38909#ls.n38909#propinquita#fem#s_tis
 latcommon.nounn38976#ls.n38976#pror#fem#a_ae
 latcommon.nounn39383#ls.n39383#pube#fem#s_ris
