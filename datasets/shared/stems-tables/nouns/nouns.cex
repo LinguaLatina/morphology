@@ -5,6 +5,7 @@ latcommon.nounn1017#ls.n1017#adulati#fem#o_onis
 latcommon.nounn1139#ls.n1139#aedifici#neut#us_i
 latcommon.nounn1321#ls.n1321#aequor#neut#0_is
 latcommon.nounn1353#ls.n1353#aerumn#fem#a_ae
+latcommon.nounn1359#ls.n1359#ae#neut#s_ris
 latcommon.nounn1382#ls.n1382#aesta#fem#s_tis
 latcommon.nounn1406#ls.n1406#aeta#fem#s_tis
 latcommon.nounn1410#ls.n1410#aeternita#fem#s_tis
@@ -417,6 +418,7 @@ latcommon.nounn34067#ls.n34067#pastor#masc#0_is
 latcommon.nounn34096#ls.n34096#pat#masc#er_ris
 latcommon.nounn34115#ls.n34115#patienti#fem#a_ae
 latcommon.nounn34131#ls.n34131#patri#fem#a_ae
+latcommon.nounn34146#ls.n34146#patrimoni#neut#us_i
 latcommon.nounn34250#ls.n34250#pa#fem#x_cis
 latcommon.nounn34282#ls.n34282#pect#neut#us_oris
 latcommon.nounn34305#ls.n34305#pecuni#fem#a_ae
@@ -482,6 +484,7 @@ latcommon.nounn40120#ls.n40120#quie#fem#s_tis
 latcommon.nounn40375#ls.n40375#ram#masc#us_i
 latcommon.nounn40449#ls.n40449#rati#fem#o_onis
 latcommon.nounn40463#ls.n40463#rat#fem#is_is
+latcommon.nounn40664#ls.n40664#rector#masc#0_is
 latcommon.nounn40763#ls.n40763#reductor#masc#0_is
 latcommon.nounn40897#ls.n40897#regim#neut#en_inis
 latcommon.nounn40899#ls.n40899#regin#fem#a_ae
@@ -526,6 +529,7 @@ latcommon.nounn44246#ls.n44246#silenti#neut#us_i
 latcommon.nounn44337#ls.n44337#simulacr#neut#us_i
 latcommon.nounn44348#ls.n44348#simulta#fem#s_tis
 latcommon.nounn44559#ls.n44559#societa#fem#s_tis
+latcommon.nounn44563#ls.n44563#socordi#fem#a_ae
 latcommon.nounn44573#ls.n44573#sodal#masc#is_is
 latcommon.nounn44583#ls.n44583#sol#masc#0_is
 latcommon.nounn44585#ls.n44585#solaci#neut#us_i
@@ -568,6 +572,7 @@ latcommon.nounn47926#ls.n47926#terror#masc#0_is
 latcommon.nounn48071#ls.n48071#thalam#masc#us_i
 latcommon.nounn48303#ls.n48303#tibi#fem#a_ae
 latcommon.nounn48443#ls.n48443#titi#masc#o_onis
+latcommon.nounn48691#ls.n48691#trageodi#fem#a_ae
 latcommon.nounn48735#ls.n48735#tranquillita#fem#s_tis
 latcommon.nounn48957#ls.n48957#tremor#masc#0_is
 latcommon.nounn49001#ls.n49001#tribun#masc#us_i
