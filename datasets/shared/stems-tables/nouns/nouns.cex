@@ -29,6 +29,7 @@ latcommon.nounn3259#ls.n3259#aqu#fem#a_ae
 latcommon.nounn3282#ls.n3282#aquil#fem#a_ae
 latcommon.nounn3294#ls.n3294#aquil#masc#o_onis
 latcommon.nounn3310#ls.n3310#ar#fem#a_ae
+latcommon.nounn3346#ls.n3346#aratr#neut#us_i
 latcommon.nounn3357#ls.n3357#arbit#masc#er_ri
 latcommon.nounn3368#ls.n3368#arbitri#neut#us_i
 latcommon.nounn3372#ls.n3372#arbor#fem#0_is
@@ -181,6 +182,7 @@ latcommon.nounn16824#ls.n16824#exercit#masc#us_us
 latcommon.nounn16904#ls.n16904#exiti#neut#us_i
 latcommon.nounn16906#ls.n16906#exit#masc#us_us
 latcommon.nounn16963#ls.n16963#exort#masc#us_us
+latcommon.nounn17082#ls.n17082#explorator#masc#0_is
 latcommon.nounn17202#ls.n17202#exsequi#fem#a_ae
 latcommon.nounn17219#ls.n17219#exsili#neut#us_i
 latcommon.nounn17219#ls.n17219#exili#neut#us_i
@@ -254,6 +256,7 @@ latcommon.nounn20998#ls.n20998#hosp#masc#es_itis
 latcommon.nounn21007#ls.n21007#hospiti#neut#us_i
 latcommon.nounn21026#ls.n21026#host#masc#is_is
 latcommon.nounn21026#ls.n21026#host#fem#is_is
+latcommon.nounn21039#ls.n21039#humanita#fem#s_tis
 latcommon.nounn21333#ls.n21333#ict#masc#us_us
 latcommon.nounn21403#ls.n21403#ign#masc#is_is
 latcommon.nounn21615#ls.n21615#imag#fem#o_inis
@@ -279,6 +282,7 @@ latcommon.nounn24877#ls.n24877#ir#fem#a_ae
 latcommon.nounn25495#ls.n25495#labor#masc#0_is
 latcommon.nounn25559#ls.n25559#lacrim#fem#a_ae
 latcommon.nounn25611#ls.n25611#lac#masc#us_us
+latcommon.nounn25739#ls.n25739#lan#fem#a_ae
 latcommon.nounn25788#ls.n25788#lanifici#neut#us_i
 latcommon.nounn25816#ls.n25816#lanug#fem#o_inis
 latcommon.nounn25849#ls.n25849#lapi#fem#s_dis
@@ -548,6 +552,7 @@ latcommon.nounn45681#ls.n45681#stupr#neut#us_i
 latcommon.nounn46450#ls.n46450#suffragi#neut#us_i
 latcommon.nounn46642#ls.n46642#superbi#fem#a_ae
 latcommon.nounn46972#ls.n46972#supplici#neut#us_i
+latcommon.nounn46985#ls.n46985#suppositi#fem#o_onis
 latcommon.nounn47118#ls.n47118#suspendi#neut#us_i
 latcommon.nounn47328#ls.n47328#tabernacul#neut#us_i
 latcommon.nounn47346#ls.n47346#tabul#fem#a_ae
