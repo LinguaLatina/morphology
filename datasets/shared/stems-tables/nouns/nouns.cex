@@ -182,6 +182,8 @@ latcommon.nounn16811#ls.n16811#exercitati#fem#o_onis
 latcommon.nounn16824#ls.n16824#exercit#masc#us_us
 latcommon.nounn16904#ls.n16904#exiti#neut#us_i
 latcommon.nounn16906#ls.n16906#exit#masc#us_us
+latcommon.nounn16949#ls.n16949#hosti#fem#a_ae
+latcommon.nounn16949#ls.n16949#exordi#neut#us_i
 latcommon.nounn16963#ls.n16963#exort#masc#us_us
 latcommon.nounn17082#ls.n17082#explorator#masc#0_is
 latcommon.nounn17202#ls.n17202#exsequi#fem#a_ae
@@ -429,6 +431,7 @@ latcommon.nounn34507#ls.n34507#pen#masc#is_is
 latcommon.nounn34513#ls.n34513#penn#fem#a_ae
 latcommon.nounn34585#ls.n34585#penuri#fem#a_ae
 latcommon.nounn34767#ls.n34767#percussor#masc#0_is
+latcommon.nounn34803#ls.n34803#perdi#masc#x_cis
 latcommon.nounn34821#ls.n34821#perduelli#fem#o_onis
 latcommon.nounn35048#ls.n35048#pericul#neut#us_i
 latcommon.nounn35756#ls.n35756#pe#masc#s_dis
